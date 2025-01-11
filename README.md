@@ -1,1 +1,1 @@
-# ReactEkart
+ReactEkart is a modern, responsive e-commerce web application built using React. It aims to provide an intuitive, seamless shopping experience for users with a clean and functional design. Whether you're browsing products, adding them to the cart, or completing your purchase, ReactEkart delivers a smooth, user-friendly interface.
